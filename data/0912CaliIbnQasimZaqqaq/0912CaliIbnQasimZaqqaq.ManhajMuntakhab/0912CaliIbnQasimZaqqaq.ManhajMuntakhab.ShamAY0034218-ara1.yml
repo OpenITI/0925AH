@@ -2,13 +2,11 @@
 00#VERS#LENGTH###: 4100
 00#VERS#URI######: 0912CaliIbnQasimZaqqaq.ManhajMuntakhab.ShamAY0034218-ara1
 80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/745279167
+80#VERS#LINKS####: https://archive.org/details/smmqmsmmqm/page/n19/mode/2up
+90#VERS#ANNOTATOR: SPL (CnC)
+90#VERS#COMMENT##: Short didactic poem. Usually published w/ commentaries.
+    No specific edition mentioned but collated to lines
+    in a commentary by al-Manjur (linked above).
+90#VERS#DATE#####: 2020-05-05
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
