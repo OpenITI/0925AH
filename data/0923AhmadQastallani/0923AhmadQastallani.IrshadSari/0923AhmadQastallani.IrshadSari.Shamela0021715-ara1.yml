@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 13974881
-00#VERS#LENGTH###: 3401828
+00#VERS#CLENGTH##: 13974423
+00#VERS#LENGTH###: 3401717
 00#VERS#URI######: 0923AhmadQastallani.IrshadSari.Shamela0021715-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1033860600
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1033860600
@@ -23,6 +23,24 @@
     twice. In book 42 the title of bab 1 is also repeated. There are more such
     instances.
     NB: check lines of poetry that seem too short: line numbers 168983, 213927
-   NOTE OF THE REVIEWER (HRH): I found the PDF of the same edition and replaced the link. So the page numbers are the same. However, there is still difference between the PDF and the digital version. This is because at the beginning of the headers, there is a paragraph added by the typist quoting just the original hadith (i.e. just the parts that are in parenthesis in the PDF), and then the original text begins. 2- It is possible that parts of some headers are entered into the body text or vice versa. Regarding the huge length of the text, I didn’t check all the headers. A careful reading is needed to make sure about this. There shouldn’t be many cases as far as my random check can suggests. 3- The typist has added headers for most baabs although they already have headers in the text. So, some of the headers are repeated in their following line. However, I didn’t delete such cases since there is a little difference between the typist’s headers and the text’s headers, and the typist’s headers are actually clearer and more usable. 4- In book 65 which is mentioned by the annotator, I added another level of levelling. 5- Find other editions of the text: https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D9%8A-%D9%84%D8%B4%D8%B1%D8%AD-%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1%D9%8A-%D8%B7-%D8%A7%D9%84%D8%A3%D9%85%D9%8A/; https://archive.org/details/rain_bow2020_yahoo_20170920_1105; and a manuscript here: https://archive.org/details/mscodex1951
+    NOTE OF THE REVIEWER (HRH): I found the PDF of the same edition and replaced the
+    link. So the page numbers are the same. However, there is still difference
+    between the PDF and the digital version. This is because at the beginning of the
+    headers, there is a paragraph added by the typist quoting just the original
+    hadith (i.e. just the parts that are in parenthesis in the PDF), and then the
+    original text begins. 2- It is possible that parts of some headers are entered
+    into the body text or vice versa. Regarding the huge length of the text, I
+    didn’t check all the headers. A careful reading is needed to make sure about
+    this. There shouldn’t be many cases as far as my random check can suggests. 3-
+    The typist has added headers for most baabs although they already have headers
+    in the text. So, some of the headers are repeated in their following line.
+    However, I didn’t delete such cases since there is a little difference between
+    the typist’s headers and the text’s headers, and the typist’s headers are
+    actually clearer and more usable. 4- In book 65 which is mentioned by the
+    annotator, I added another level of levelling. 5- Find other editions of the
+    text:
+    https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D9%8A-%D9%84%D8%B4%D8%B1%D8%AD-%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1%D9%8A-%D8%B7-%D8%A7%D9%84%D8%A3%D9%85%D9%8A/;
+    https://archive.org/details/rain_bow2020_yahoo_20170920_1105; and a manuscript
+    here: https://archive.org/details/mscodex1951
 90#VERS#DATE#####: 2021-01-12
 90#VERS#ISSUES###: PAGINATION
