@@ -1,13 +1,10 @@
 00#VERS#CLENGTH##: 547739
 00#VERS#LENGTH###: 131955
 00#VERS#URI######: 0911Suyuti.TarikhKhulafa.Shamela0011997-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: SP Loynes
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: EDITION_NOT_FOUND
+80#VERS#BASED####: https://worldcat.org/en/title/4770225848
+80#VERS#COLLATED#: https://worldcat.org/en/title/4770639663
+80#VERS#LINKS####: https://archive.org/details/TareekhKholafaa
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Other editions are accessible: https://archive.org/details/20230204_20230204_1005; https://archive.org/details/Tarikh_Khlafa_Suyuti; https://archive.org/details/Tarikh_Khlafa_siyuti; https://archive.org/details/ar120vieux112
+90#VERS#DATE#####: 2023-05-15
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
