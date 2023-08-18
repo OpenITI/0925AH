@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 795763
 00#VERS#LENGTH###: 188687
 00#VERS#URI######: 0916IbnFanad.MaathirAbrar.Zaydiyya0000090-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: https://worldcat.org/en/title/60522207
+80#VERS#LINKS####: https://ziydia.com/Book/547
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The sections for Imams should not be tagged as biographies, since they are in the form of Akhbar. 2. There is a dhayl at the end of the text that should be split off. I raised an issue for it. 3. Find a manuscript of the text here: https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D9%85%D8%A2%D8%AB%D8%B1-%D8%A7%D9%84%D8%A3%D8%A8%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AA%D9%81%D8%B5%DB%8C%D9%84-%D9%85%D8%AC%D9%85%D9%84%D8%A7%D8%AA-%D8%AC%D9%88%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D8%A3-2/. 
+90#VERS#DATE#####: 2023-07-14
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
