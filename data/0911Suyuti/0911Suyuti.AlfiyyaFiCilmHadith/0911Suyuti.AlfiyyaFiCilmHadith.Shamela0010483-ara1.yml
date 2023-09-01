@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://archive.org/details/waq75686
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: I formatted poetry, deleted footnote markers, and deleted the
-    line numbers which do not appear in the edition.
-    NOTE OF THE REVIEWER (HRH): No changes.
+        line numbers which do not appear in the edition.
+        NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-12-07
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

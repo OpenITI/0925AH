@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://www.quranicthought.com/ar/books/الغرر-في-فضائل-عمر/
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: I could not find the specific edition. However, given
-    that the text is very short I have checked it against a different
-    edition. All appeared in order.
+        that the text is very short I have checked it against a different
+        edition. All appeared in order.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-10-26
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

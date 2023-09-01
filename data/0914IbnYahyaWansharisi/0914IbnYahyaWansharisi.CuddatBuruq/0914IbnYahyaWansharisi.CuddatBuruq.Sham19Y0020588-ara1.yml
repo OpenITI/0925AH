@@ -4,11 +4,14 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/784309321
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/784309321
 80#VERS#LINKS####: https://www.noor-book.com/en/ebook-عده-البروق-في-جمع-ما-في-
-    المذهب-من-الجموع-والفروق-pdf
+        المذهب-من-الجموع-والفروق-pdf
 90#VERS#ANNOTATOR: SPL (CnC)
 90#VERS#COMMENT##: Very good edition, closely corresponds to printed text.
-    Removed editorial sections, footnote numbers, etc.
-    Each furuq is numbered, but the word 'qāʿida' only appears several times in the
-    text.
+        Removed editorial sections, footnote numbers, etc.
+        Each furuq is numbered, but the word 'qāʿida' only appears several times in the
+        text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-05
-90#VERS#ISSUES###: No_Major_Issues
+90#VERS#ISSUES###: No_Major_Issues, PRIMARY_VERSION, CLEANED_VERSION

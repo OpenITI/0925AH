@@ -5,11 +5,14 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: https://archive.org/details/FPrawdat
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+        use consistently)
 90#VERS#COMMENT##: The original text file contained three separate texts:
-    * 0911Suyuti.MinhajSawi
-    * 0911Suyuti.MuntaqaYanbuc
-    * 0676Nawawi.RawdatTalibin
-    PV split off the three texts into separate text files.
+        * 0911Suyuti.MinhajSawi
+        * 0911Suyuti.MuntaqaYanbuc
+        * 0676Nawawi.RawdatTalibin
+        PV split off the three texts into separate text files.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

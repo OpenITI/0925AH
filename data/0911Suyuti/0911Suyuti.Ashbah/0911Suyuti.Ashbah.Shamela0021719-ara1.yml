@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://ia800309.us.archive.org/24/items/asnzqwfrfesh/asnzqwfrfesh.pdf
 90#VERS#ANNOTATOR: SPL
 90#VERS#COMMENT##: Closely follows printed edition.
-    Scribe has added some useful additional clarifications to titles.
-    Hierarchy only considered in relation to 'Book' level and single subsection.
+        Scribe has added some useful additional clarifications to titles.
+        Hierarchy only considered in relation to 'Book' level and single subsection.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-05
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

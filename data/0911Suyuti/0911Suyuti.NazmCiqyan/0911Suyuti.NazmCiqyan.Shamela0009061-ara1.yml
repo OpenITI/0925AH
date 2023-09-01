@@ -3,9 +3,12 @@
 00#VERS#URI######: 0911Suyuti.NazmCiqyan.Shamela0009061-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/949574622
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/949574622
-80#VERS#LINKS####:
-    https://archive.org/details/NazmAlEqyanFeyAayanAlAayan/page/n8/mode/2up
+80#VERS#LINKS####: 
+        https://archive.org/details/NazmAlEqyanFeyAayanAlAayan/page/n8/mode/2up
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good correspondence; no obvious issues.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-10-27
-90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS
+90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
