@@ -6,10 +6,12 @@
 80#VERS#LINKS####: https://www.quranicthought.com/ar/books/الغرر-في-فضائل-عمر/
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: I could not find the specific edition. However, given
-        that the text is very short I have checked it against a different
-        edition. All appeared in order.
+    that the text is very short I have checked it against a different
+    edition. All appeared in order.
     All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0925AH/pre-clean/data/0911Suyuti/0911Suyuti.GhurarFiFadailCumar/0911Suyuti.GhurarFiFadailCumar.Shamela0000193-ara1.completed
 90#VERS#DATE#####: 2020-10-26
 90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
