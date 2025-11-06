@@ -1,6 +1,6 @@
 00#AUTH#URI######: 0911Suyuti
 10#AUTH#ISM####AR: ʿAbd al-Raḥmān
-10#AUTH#KUNYA##AR:
+10#AUTH#KUNYA##AR: 
 10#AUTH#LAQAB##AR: Ǧalāl al-dīn, Abū al-faḍl
 10#AUTH#NASAB##AR: b. Abī Bakr b. Muḥammad Ǧalāl al-dīn
 10#AUTH#NISBA##AR: al-Ḫuḍayrī al-Asyūṭī
@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0911-JU1-19
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: 0868IbnCumarBulqini, 0879IbnSulaymanMuhyiDinKafiji,
+70#AUTH#EXTID####: wikidata@Q468432
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Faḍl ʿAbd al-Raḥmān b. Abī Bakr b. Muḥammad D̲j̲alāl al-Dīn al-K̲h̲uḍayrī, famous Egyptian scholar, at present recognised as the most prolific author in the whole of Islamic literature.": http://dx.doi.org/10.1163/1573-3912_islam_COM_1130

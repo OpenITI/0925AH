@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0921-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q17354630
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D8%B1%D8%A7%D8%A6%D9%8A%D9%84_%D8%A7%D8%A8%D9%86_%D8%A7%D9%84%D9%82%D9%84%D8%A7%D8%B9%D9%8A
